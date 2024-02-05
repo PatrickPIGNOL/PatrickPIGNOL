@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatrickPIGNOL
 - 👀 I’m interested in programming DB, IA, Industrial, Arduino, Events animation, and more...
 - 🌱 I’m currently interesting on learning mathematics (after derivation "f'(x)" )
-- 💞️ I’m looking to collaborate on humanoid robotics.
+- 💞️ I’m looking to work on humanoid robotics.
 
 
 <!---
